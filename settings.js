@@ -4,7 +4,7 @@ const path = require("path");
 const chalk = require("chalk");
 const moment = require("moment-timezone");
 //===========//
-global.owner = ["6283823549074"];
+global.owner = ["6289517567947"];
 global.settings = {
   cover: "https://files.catbox.moe/ed7ekj.jpg",
   footer: "© Kaguya-bot 2024",
